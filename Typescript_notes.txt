@@ -1,0 +1,26 @@
+==============> Typescript NOtes   <================
+
+typescript is strict  typed language so we need to specify the data type of our variables.
+
+different data types in typescript are :
+  Primitive Data types: 
+    1. Number: it represents any integer  ex: 4,3 , let c:Number=5
+    2. String: it represents a sequence of any characters  ex: "hello","string", let b:string="hello"
+    3. Boolean : true or false ex: let a:boolean=true;
+    4. undefined:used when variable not assigned
+    5. null: used when there is no value  ex: let obj;
+    6. void: that doesn't return nothing
+    
+special data types:
+    1.enums
+    2.any
+    3.unknown
+    4.undefined
+    5.null
+    6.never
+    
+Non primitive datatypes:
+    1.Arrays
+    2.Tuple
+    3.Object types
+
