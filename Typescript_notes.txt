@@ -24,3 +24,20 @@ Non primitive datatypes:
     2.Tuple
     3.Object types
 
+
+Assertions: changing variable from one datatype to another datatype
+Type assertions are meant only for type checking at compile time and don't affect runtime behavior
+
+type casting is based on some type of runtime support
+
+where as type Assertions is based on compiler time support
+
+scopes : 
+  - local scope (let)  ==> with in object or method or upto end of block where declared
+  - global scope(var)  ==> it can access anywhere with in the file
+  - class scope    ==> it is in class outside methods and object
+  static variable ==> it can be accessed by using the class name
+
+interface  ==> specifying the datatypes to the objects
+
+
